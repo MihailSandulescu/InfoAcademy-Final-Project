@@ -14,4 +14,6 @@ ORDINEA APELARII:
 * Am implementat un view care sa recreeze tabela veche din noile tabele, in OPTIONAL - View old_table
 * La pasul 4 putem sa nu cream view-ul fill_from_veche, ci sa cream procedura populeaza_tabele() din Proceduri, pe care sa o apelam la pasul 5, dupa LOAD DATA
 
+-> am implementat proiect_full_script, script care ruleaza automat toate aceste comenzi
+
 */
